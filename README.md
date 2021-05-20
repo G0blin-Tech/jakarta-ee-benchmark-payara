@@ -1,1 +1,1 @@
-# jakarta-ee-benchmark-payara
+# jakarta-ee-benchmark-wildfly
